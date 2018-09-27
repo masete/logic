@@ -26,8 +26,6 @@ def search_todo_by_id(todo_id):
             return todo
     return 0
 
-
-    # todo_list.append(task)
 # Write a function deletes a task
 
 
